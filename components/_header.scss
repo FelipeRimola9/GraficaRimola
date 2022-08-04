@@ -1,0 +1,40 @@
+*{/*selector universal*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    
+    
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+    
+    body {
+        font-family: 'Montserrat', sans-serif;
+        overflow-x: hidden;
+    }
+    
+    
+    /*===================MENU==========================*/
+    
+     #menu a, button{
+         font-size: 18px !important;
+         font-weight: 600;
+        
+     }
+    
+     #menu a{
+         color:#3f3f3f;
+         
+     }
+    /*===================SLIDER DE IMAGENES==========================*/
+    
+    .carousel-inner {
+        max-height:39rem !important;
+    }
+    
+    @keyframes fade {
+        from{
+            opacity: 0%;
+        }
+        to{
+            opacity: 100%;
+        }
+    }

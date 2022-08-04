@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-grafica",
+  "version": "1.0.0",
+  "description": "pagina grafica",
+  "main": "index.js",
+  "scripts": {
+ "start": "sass main.scss ./css/main.css -w -s compressed"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeRimola9/Grafica-con-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeRimola9/Grafica-con-bootstrap/issues"
+  },
+  "homepage": "https://github.com/FelipeRimola9/Grafica-con-bootstrap#readme"
+}
